@@ -16,7 +16,7 @@ def calculator(a, b):
     
     return add, subtract, multiply, divide
 
-# Get user input
+# to get user input
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 
