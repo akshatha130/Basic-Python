@@ -5,5 +5,5 @@ def max_of_two(x,y):
             return y
     else:
          print("not a proper input")
-#print(max_of_two(-2,0)) #erro with isdigit
-print(max_of_two('A',4)) #error A is not defined
+#print(max_of_two(-2,0)) #error with 'isdigit'
+print(max_of_two('A',4)) #error 'A is not defined'
